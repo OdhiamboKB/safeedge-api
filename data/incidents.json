@@ -1,0 +1,53 @@
+[
+  {
+    "id": "INC-2026-047",
+    "title": "Slip on Wet Surface \u2014 Loading Bay Entrance",
+    "type": "injury",
+    "severity": "High",
+    "site": "site-a",
+    "date": "2026-05-02",
+    "time": "09:14",
+    "location": "Loading Bay Entrance",
+    "description": "Worker reported a slip and fall near the loading bay entrance following overnight rainfall.",
+    "reporter_name": "James Omondi",
+    "reporter_email": "j.omondi@company.com",
+    "lost_time": false,
+    "rca_required": true,
+    "status": "Open",
+    "created_at": "2026-05-02T09:14:00Z"
+  },
+  {
+    "id": "NM-2026-048",
+    "title": "Unsecured Load \u2014 Forklift Operation Area",
+    "type": "near-miss",
+    "severity": "NearMiss",
+    "site": "site-a",
+    "date": "2026-05-01",
+    "time": "14:32",
+    "location": "Warehouse B",
+    "description": "Supervisor observed a pallet stack exceeding safe height in the active forklift zone.",
+    "reporter_name": "Amina Wanjiku",
+    "reporter_email": "a.wanjiku@company.com",
+    "lost_time": false,
+    "rca_required": true,
+    "status": "Under Review",
+    "created_at": "2026-05-01T14:32:00Z"
+  },
+  {
+    "id": "INC-2026-046",
+    "title": "Chemical Spill \u2014 Battery Charging Room",
+    "type": "environmental",
+    "severity": "Medium",
+    "site": "site-a",
+    "date": "2026-04-30",
+    "time": "07:55",
+    "location": "Workshop \u00b7 Battery Room",
+    "description": "Small electrolyte spill during battery top-up procedure. Spill kit deployed within 4 minutes.",
+    "reporter_name": "Kamau Mutua",
+    "reporter_email": "k.mutua@company.com",
+    "lost_time": false,
+    "rca_required": true,
+    "status": "Closed",
+    "created_at": "2026-04-30T07:55:00Z"
+  }
+]
