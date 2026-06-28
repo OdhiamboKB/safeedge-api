@@ -49,5 +49,22 @@
     "rca_required": true,
     "status": "Closed",
     "created_at": "2026-04-30T07:55:00Z"
+  },
+  {
+    "id": "INC-2026-004",
+    "title": "Struck by a falling Object- Ring Road Entrance",
+    "type": "injury",
+    "severity": "High",
+    "site": "site-a",
+    "date": "2026-06-28",
+    "time": "08:55",
+    "location": "",
+    "description": "A team was offloading materials from a trailer, the load slipped from the hand of one individual and struck his left index finger",
+    "reporter_name": "MR KB",
+    "reporter_email": "odhiambootienokelvin@gmail.com",
+    "lost_time": true,
+    "rca_required": true,
+    "status": "Open",
+    "created_at": "2026-06-28T06:37:07.128466Z"
   }
 ]
